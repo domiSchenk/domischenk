@@ -1,9 +1,10 @@
-# Hi 👋, I'm Dominik Schenk
+# Hi 👋, I'm Dominik
 ### A passionate developer from Switzerland</h3>
-🔭 I’m currently working for [Softec](https://www.softec.ch/)
-
+🔭 I’m currently working for [Softec](https://www.softec.ch/) in switzerland
 💬 Ask me about **Angular, GIS, Openlayers**
+🌱 You never stop learning!
 
+My techstack:
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> 
