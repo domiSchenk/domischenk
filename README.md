@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dominik
 ### A passionate developer from Switzerland</h3>
-🔭 I’m currently working for [Softec](https://www.softec.ch/) in switzerland  
+🔭 I’m currently working for [SOFTEC AG](https://www.softec.ch/) in switzerland  
 💬 Ask me about **Angular, GIS, Openlayers**  
 🌱 You never stop learning!  
 
