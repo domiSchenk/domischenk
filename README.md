@@ -29,5 +29,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/domischenk)  
 [![Dominiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=domischenk&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/domischenk)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domischenk&layout=compact&theme=highcontrast)](https://github.com/domischenk)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domischenk&layout=compact&theme=highcontrast&hide=tex)](https://github.com/domischenk)  
 
