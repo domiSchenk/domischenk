@@ -2,8 +2,7 @@
 ### A passionate developer from Switzerland
 
 
-🔭 I’m currently working for [SOFTEC AG](https://www.softec.ch/) in switzerland  
-💬 Ask me about **Angular, GIS, Openlayers**  
+🔭 I’m working for [SOFTEC AG](https://www.softec.ch/) in switzerland  
 🌱 You never stop learning!  
 
 ### Languages and Tools 
