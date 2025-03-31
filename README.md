@@ -7,12 +7,19 @@
 🌱 You never stop learning!  
 
 ### Languages and Tools 
-  - AngularJS / Angular
+  - Web
+    - Angular
+      - DevExtreme
+    - JavaScript / TypeScript
+    - HTML / CSS / SCSS
+    - Tailwind
   - C#.NET
-  - Docker
-  - HTML / CSS / SCSS
-  - JavaScript / TypeScript
-  - SQL
+    - Framework
+    - .NET
+    - EF
+  - Docker / Kubernetes
+  - SQL Server
+    - Spatial
 
     
     
